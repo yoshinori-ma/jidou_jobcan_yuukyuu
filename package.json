@@ -1,0 +1,17 @@
+{
+  "name": "dakokun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-holidays": "^3.12.1",
+    "dayjs": "^1.10.7",
+    "puppeteer": "^11.0.0"
+  }
+}
